@@ -4,7 +4,7 @@
 
 ## Project Overview:
 
-This project is tailored towards determining the  
+This project was put together in order to understand the level and nature of attrition going on in the company, the root causes, and the best measures to deploy to prevent further attrition, promoting staff retention within the company.
 
 ## Project Dataset  
 [Dataset](https://github.com/Eleazar19/Smart-store-sales-report/blob/main/Smart%20store%20sales%20data.xlsx)
