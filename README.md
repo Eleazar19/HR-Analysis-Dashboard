@@ -4,14 +4,16 @@
 
 ## Project Overview:
 
-This project was put together in order to understand the level and nature of attrition going on in the company, the root causes, and the best measures to deploy to prevent further attrition, promoting staff retention within the company.
+This project was assembled to understand the level and nature of attrition within the identified company, identify the root causes, and determine the best measures to implement and prevent further attrition, thereby promoting staff retention within the company.
 
 ## Project Dataset  
-[Dataset](https://github.com/Eleazar19/Smart-store-sales-report/blob/main/Smart%20store%20sales%20data.xlsx)
+[Dataset](https://github.com/Eleazar19/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv)
+
+
 
 ## Tools and Methodology:
 
-Power Query in Excel : Used for carrying out necessary ETL processes ranging from cleaning, removing duplicates, and data validation.
+Power Query in Excel: Used for carrying out necessary ETL processes, ranging from cleaning, removing duplicates, and data validation.
 
 Excel: Used for further analysis and Visualization.
 
