@@ -10,86 +10,47 @@ This project was assembled to understand the level and nature of attrition withi
 [Dataset](https://github.com/Eleazar19/HR-Analysis-Dashboard/blob/main/HR_Analytics.csv)
 
 
-
 ## Tools and Methodology:
 
-Power Query in Excel: Used for carrying out necessary ETL processes, ranging from cleaning, removing duplicates, and data validation.
+Power Query in Excel: Used for carrying out necessary ETL processes, ranging from cleaning to removing duplicates, and data validation.
 
-Excel: Used for further analysis and Visualization.
+Excel: Used for further analysis, pivoting, and Visualization.
 
-## Data Processing:
-Used several advanced excel functions and formulas to uncover hidden matrices. 
 
 ## Dashboard:
-![Screenshot (146)](https://github.com/user-attachments/assets/4379e9a0-c3fe-411f-b424-d88833192210)
+<img width="1346" height="471" alt="HR Dashboard" src="https://github.com/user-attachments/assets/c68670f5-8326-4f0c-83d6-ac57a51e38f9" />
 
 
 ## Key Insights:
 
-### Top Performing Branch
-- Branch A leads in sales with 1,859 units, followed by Branch C (1,831) and Branch B (1,820).
-- The performance difference is slight between Branch A and C, but A still edges out as the leader.
+- Employees who are highly educated earn more in terms of monthly salary in the company compared to employees who are less educated; in other words, the higher your educational level, the more salary you earn at the company.
 
-### Customer Distribution by City
+- The managerial position in every department is paid way higher than any other employee.
 
-- Yangon has the highest customer count with 340, followed by Mandalay (332) and Naypyitaw (328).
-- This implies a relatively even customer distribution, but with Yangon offering the greatest market opportunity.
+- Salary increments for employees those not actually reflect better performance.
 
-### Profit Contribution by Customer Type
-- Members contributed more to profit ($164,223) than normal customers ($158,743).
-- Indicates that membership programs are profitable and worth expanding.
+- The Laboratory Technician role under the Research & Development department experienced the highest number of attrited employees (62). 
 
-  ### Gender-wise Profit
-- Female customers slightly edge out males in profit contribution ($7,994 vs. $7,385).
-- Suggests female-oriented campaigns or product bundles may drive more profit.
+- Ninety percent of employees who attained level five in educational qualification who occupied roles like Manufacturing Director, Human Resource, Sales Executive, and Research Scientist attrited from the company owing to not being satisfied with their job.
 
-### Product Profitability
-#### Top Profitable Products:
-- Sports and Travel – $55,123
-- Home and Lifestyle – $53,862
-- Fashion Accessories – $54,306
-- Electronic Accessories generate the highest purchase volume (971) but are lower in total profit ($54,238), showing high volume, lower margin behavior.
+- The organization is made up of a young workforce that emanates from the young age group of unattired employees.
 
-### Yearly Profit Trends
-- 2022 saw the highest profit ($116,686), followed by 2021 ($108,104) and 2023 ($89,067).
-- There's a clear decline in yearly profit post-2022 that should be examined closely.
 
-## Recommendations
 
-### Enhance Member Retention & Growth
+### Pattern:
+Employees who received a 20-25% salary increase have a work performance of 4% while employees who received 11-19% in salary increase maintained 3% in work performance.
 
-- Boost loyalty benefits and referral programs to grow the highly profitable member base.
-- Use targeted promotions for members to increase purchase frequency and basket size.
 
-### Replicate Success of Branch A
+## Recommendations:
 
-- Conduct a performance audit of Branch A: staff efficiency, layout, local marketing, etc.
-- Use insights to optimize operations in Branches B and C.
+- Knowing that salary increment those not hamper the job performance of employee’s, the company should use other extrinsic motivation tools like health benefit, monthly bonus based on work performance, annual leave allowance, and transport allowance as a means of motivating employees to perform better at their respective job role.
 
-### Maximize Potential in Yangon
+- A survey should be carried out in other to find out the reason behind the large number of attritions witnessed in the laboratory Technician role.
 
-- Since Yangon has the most customers, invest in location-specific campaigns, product availability, and services there.
-- Explore whether more outlets or delivery options could capture further market share.
+- Role Redesign and Enrichment: Conduct role-specific feedback sessions and job satisfaction surveys to identify dissatisfaction drivers, then restructure job roles to increase autonomy, purpose, and growth potential.
 
-### Segment and Target Female Shoppers
-- Develop marketing content, bundles, or promotions tailored to female customers, particularly in product categories like fashion, beauty, and lifestyle.
+- The young work force in the company should be maintained in other to have a high level of productivity in with the company. 
 
-### Optimize Low-Margin High-Volume Products
-
-- Products like Electronic Accessories sell well but return lower profit per unit.
-
-Consider:
-- Bundling with high-margin products
-- Price adjustments where possible
-- Upselling during checkout
-
-###  Investigate Declining Annual Profit
-
-- Profit dropped from $116k (2021) to $9,109 (2022).
- Possible factors to review:
-- Market saturation
-- Increased competition
-- Cost increases or poor inventory management
 
   ## Conclusion
 
