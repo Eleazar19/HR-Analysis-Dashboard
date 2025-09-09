@@ -43,7 +43,7 @@ Employees who received a 20-25% salary increase have a work performance of 4% wh
 
 ## Recommendations:
 
-- Knowing that salary increment those not hamper the job performance of employee’s, the company should invest in non-monetary motivators such as career development programs, recognition systems, and work-life balance initiatives.
+- Knowing that salary increments do not hamper the job performance of employees, the company should invest in non-monetary motivators such as career development programs, recognition systems, and work-life balance initiatives. Reason being that many employees value growth opportunities (training, mentorship, promotions) more than just money.   Recognition & appreciation (employee awards, shoutouts, peer recognition) can boost morale and engagement.
 
 - Instead of relying heavily on salary increments, 
 
