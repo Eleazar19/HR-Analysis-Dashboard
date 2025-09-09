@@ -56,5 +56,4 @@ Employees who received a 20-25% salary increase have a work performance of 4% wh
 
   ## Conclusion
 
-Smart Store Sales report provides valuable insights into the store’s performance across branches, customer types, product categories, and time periods. Key findings highlight the importance of member customers, strong sales in specific branches and cities, and shifts in yearly profits. These insights will guide strategic actions to optimize marketing, product management, and operational focus moving forward.
-
+As easy as it may sound, employee attrition remains one of the nightmares of companies if not properly handled, as top talent can be lost as a result of this. Going forward, every level of attrition in an organization or company must be handled with the right strategies that ensure employee retention and further development.  
