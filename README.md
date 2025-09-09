@@ -27,13 +27,13 @@ Excel: Used for further analysis, pivoting, and Visualization.
 
 - The managerial position in every department is paid way higher than any other employee.
 
-- Salary increments for employees those not actually reflect better performance.
+- Salary increments for employees do not actually reflect better performance.
 
 - The Laboratory Technician role under the Research & Development department experienced the highest number of attrited employees (62). 
 
 - Ninety percent of employees who attained level five in educational qualification who occupied roles like Manufacturing Director, Human Resource, Sales Executive, and Research Scientist attrited from the company owing to not being satisfied with their job.
 
-- The organization is made up of a young workforce that emanates from the young age group of unattired employees.
+- The organization is made up of a young workforce which emanates from the young age group of unattired employees.
 
 
 
@@ -43,13 +43,15 @@ Employees who received a 20-25% salary increase have a work performance of 4% wh
 
 ## Recommendations:
 
-- Knowing that salary increment those not hamper the job performance of employee’s, the company should use other extrinsic motivation tools like health benefit, monthly bonus based on work performance, annual leave allowance, and transport allowance as a means of motivating employees to perform better at their respective job role.
+- Knowing that salary increment those not hamper the job performance of employee’s, the company should invest in non-monetary motivators such as career development programs, recognition systems, and work-life balance initiatives.
 
-- A survey should be carried out in other to find out the reason behind the large number of attritions witnessed in the laboratory Technician role.
+- Instead of relying heavily on salary increments, 
+
+- A survey should be carried out to find out the reason behind the large number of attritions witnessed in the laboratory Technician role.
 
 - Role Redesign and Enrichment: Conduct role-specific feedback sessions and job satisfaction surveys to identify dissatisfaction drivers, then restructure job roles to increase autonomy, purpose, and growth potential.
 
-- The young work force in the company should be maintained in other to have a high level of productivity in with the company. 
+- The young workforce in the company should be maintained to have a high level of productivity within the company. 
 
 
   ## Conclusion
