@@ -14,7 +14,7 @@ This project was assembled to understand the level and nature of attrition withi
 
 Power Query in Excel: Used for carrying out necessary ETL processes, ranging from cleaning to removing duplicates, and data validation.
 
-Excel: Used for further analysis, pivoting, and Visualization.
+Excel: Used for further analysis, pivoting, and visualization.
 
 
 ## Dashboard:
