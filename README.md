@@ -23,7 +23,7 @@ Excel: Used for further analysis, pivoting, and Visualization.
 
 ## Key Insights:
 
-- Employees who are highly educated earn more in terms of monthly salary in the company compared to employees who are less educated; in other words, the higher your educational level, the more salary you earn at the company.
+- Employees who are highly educated earn more in terms of monthly salary in the company compared to employees who are less educated; in other words, the higher your educational level, the higher your salary at the company.
 
 - The managerial position in every department is paid way higher than any other employee.
 
@@ -43,17 +43,18 @@ Employees who received a 20-25% salary increase have a work performance of 4% wh
 
 ## Recommendations:
 
-- Knowing that salary increments do not hamper the job performance of employees, the company should invest in non-monetary motivators such as career development programs, recognition systems, and work-life balance initiatives. Reason being that many employees value growth opportunities (training, mentorship, promotions) more than just money.   Recognition & appreciation (employee awards, shoutouts, peer recognition) can boost morale and engagement.
+- Knowing that salary increments do not hamper the job performance of employees, the company should invest in non-monetary motivators such as career development programs, recognition systems, and work-life balance initiatives. The reason is that many employees value growth opportunities (training, mentorship, promotions) more than just money.   
 
-- Instead of relying heavily on salary increments, 
 
 - A survey should be carried out to find out the reason behind the large number of attritions witnessed in the laboratory Technician role.
 
+
 - Role Redesign and Enrichment: Conduct role-specific feedback sessions and job satisfaction surveys to identify dissatisfaction drivers, then restructure job roles to increase autonomy, purpose, and growth potential.
+
 
 - The young workforce in the company should be maintained to have a high level of productivity within the company. 
 
 
   ## Conclusion
 
-As easy as it may sound, employee attrition remains one of the nightmares of companies if not properly handled, as top talent can be lost as a result of this. Going forward, every level of attrition in an organization or company must be handled with the right strategies that ensure employee retention and further development.  
+As easy as it may sound, employee attrition remains one of the nightmares for companies if not properly handled, as top talent can be lost as a result. In other words, any level of attrition in an organization or company must be handled with the right strategies, ensuring the door is quickly closed, which saves the company from recruitment costs and retaining its best brains.
